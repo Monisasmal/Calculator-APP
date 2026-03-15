@@ -3,7 +3,11 @@
 A simple and responsive Calculator Application built using HTML, CSS, and JavaScript.
 This project performs basic arithmetic operations and demonstrates DOM manipulation and event handling using vanilla JavaScript.
 
+---
+
 Live Link - https://monisasmal.github.io/Calculator-APP/
+
+---
 
 ## 🚀 Project Overview
 
@@ -16,6 +20,8 @@ The project focuses on:
 - Expression evaluation
 - Clean UI design using CSS
 
+---
+
 ## ✨ Features
 
 - ➕ Addition
@@ -27,10 +33,16 @@ The project focuses on:
 - ⌫ Delete last character
 - 📱 Responsive layout
 
+---
+
 ## 🛠️ Built With
 
 - HTML5
 - CSS3
+- JS
+
+---
+
 ## 🧠 How It Works
 
 1. Each button is connected to a JavaScript event listener.
