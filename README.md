@@ -41,6 +41,18 @@ The project focuses on:
 4. The result is displayed instantly.
 5. The C button clears the display.
 
+---
+
+## 🎯 Learning Outcomes
+
+This project demonstrates:
+
+- DOM selection and manipulation
+- Event listeners
+- Handling user input
+- JavaScript logic building
+- Basic UI styling
+- Real-time updates without frameworks
 
 ---
 
