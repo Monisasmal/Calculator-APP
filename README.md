@@ -1,4 +1,31 @@
+# 🧮 Calculator App
+
+A simple and responsive Calculator Application built using HTML, CSS, and JavaScript.
+This project performs basic arithmetic operations and demonstrates DOM manipulation and event handling using vanilla JavaScript.
+
 Live Link - https://monisasmal.github.io/Calculator-APP/
+
+## 🚀 Project Overview
+
+This Calculator App replicates the functionality of a standard calculator. It allows users to perform real-time arithmetic operations using button inputs.
+
+The project focuses on:
+
+- JavaScript event handling
+- DOM manipulation
+- Expression evaluation
+- Clean UI design using CSS
+
+## ✨ Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔢 Decimal support
+- 🧹 Clear / Reset button
+- ⌫ Delete last character
+- 📱 Responsive layout
 
 🙋‍♀️ Author
 
