@@ -27,6 +27,23 @@ The project focuses on:
 - ⌫ Delete last character
 - 📱 Responsive layout
 
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+## 🧠 How It Works
+
+1. Each button is connected to a JavaScript event listener.
+2. When a user clicks a number or operator:
+  - The value is appended to the display.
+3. When the = button is pressed:
+  - The expression is evaluated using JavaScript logic.
+4. The result is displayed instantly.
+5. The C button clears the display.
+
+
+---
+
 🙋‍♀️ Author
 
 Manaswini Sasmal
